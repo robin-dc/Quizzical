@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300;400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  *{
+    font-family: 'Karla', sans-serif;
+  }
+  body{
+    position: relative;
+    background-color: #F5F7FB;
+    overflow-x: hidden;
+  }
+  p, h1, h2, h3, h4, small, strong, em, span, label{
+    @apply text-primary
+  }
+  input[type="radio"]:checked + label {
+    @apply bg-chosen border-chosen;
+  }
+
+}
