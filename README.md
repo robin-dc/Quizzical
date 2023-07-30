@@ -3,7 +3,7 @@ Quiz app focused on general knowledge questions from Open Trivia Database
 
 <br>
 
-<img src='https://github.com/robin-dc/Digital-Business-Card/blob/main/digitalcard.png'>
+<a href="https://quizzicalopen.netlify.app/"><img src='quizzical_preview.png'></a>
 
 <br>
 
