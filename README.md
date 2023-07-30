@@ -3,7 +3,7 @@ Quiz app focused on general knowledge questions from Open Trivia Database
 
 <br>
 
-<a href="https://quizzicalopen.netlify.app/"><img src='quizzical_preview.png](https://github.com/robin-dc/Quizzical/blob/main/public/quizzical_preview.png'></a>
+<a href="https://quizzicalopen.netlify.app/"><img src='https://github.com/robin-dc/Quizzical/blob/main/public/quizzical_preview.png'></a>
 
 <br>
 
